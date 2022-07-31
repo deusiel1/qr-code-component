@@ -1,0 +1,14 @@
+*.json
+
+*.lock
+
+*.nix
+
+*.replit
+
+vite.config.js
+
+node_modules/
+
+.config/
+
