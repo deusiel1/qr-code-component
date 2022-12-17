@@ -20,7 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](Frontend-Mentor-QR-code-component.png)
+![Mobile](Frontend-Mentor-QR-code-component-mobile.png)
 
 
 ### Links
@@ -49,10 +50,9 @@ I need to improve my ability to deal with units. At the beginning i sttrugled a 
 
 ## Author
 
-- Github - [desuiel1](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [desuiel1](https://github.com/deusiel1)
+- Frontend Mentor - [@deusiel1](https://www.frontendmentor.io/profile/deusiel1)
+- Twitter - [@DeusielS](https://twitter.com/DeusielS)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
