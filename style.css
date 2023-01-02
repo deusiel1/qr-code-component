@@ -12,6 +12,7 @@
 --grayish_blue: hsl(220, 15%, 55%);
 --dark_blue: hsl(218, 44%, 22%);
 --margin: 1rem;
+--font-family: 'Outfit', sans-serif;
 }
 
 body {
@@ -21,6 +22,7 @@ body {
     flex-direction: column;
     background-color: var(--light_gray);
     min-height: 100vh;
+    font-family: var(--font-family);
 }
 
 .qr-container {
@@ -36,8 +38,8 @@ body {
     justify-content: center;
     flex-wrap: nowrap;
     max-width: 15.5rem;
-    border-radius: 5%;
-    
+    max-height: 40.5rem;
+    border-radius: 15px;    
 }
 
 .qr-code-image {
@@ -53,17 +55,15 @@ body {
     font-weight: 700;
     font-size: 1.1rem;
     margin-bottom: var(--margin);
-/*     padding: 0.5rem; */
 }
 
 .text-container {
     text-align: center;
-    font-family: 'Outfit', sans-serif;
     max-width: 100%;
 }
 
 .text {
-    font-size: .9rem;
+    font-size: .95rem;
     font-weight: 400;
     max-width: 95%;
     margin-bottom: 0.5rem;
