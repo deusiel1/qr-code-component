@@ -29,8 +29,8 @@ body {
     background-color: var(--bd_white);
     padding-top: 0.5rem;
     padding-bottom: 1rem;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-left: 0.1rem;
+    padding-right: 0.1rem;
     margin-bottom: var(--margin);
     display: flex; 
     flex-direction: column;
@@ -38,14 +38,14 @@ body {
     justify-content: center;
     flex-wrap: nowrap;
     max-width: 15.5rem;
-    max-height: 40.5rem;
+    max-height: 52.5rem;
     border-radius: 15px;    
 }
 
 .qr-code-image {
     max-width: 14rem;
     max-height: 50%;
-    border-radius: 5%;
+    border-radius: 15px;
     margin-bottom: var(--margin);
 
 }
