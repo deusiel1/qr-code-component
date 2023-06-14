@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/qr-code-component-hvIly6tH-m)
 - Live Site URL: [live QR code Site](https://deusiel1.github.io/qr-code-component.io/)
 
 ## My process
@@ -45,7 +45,7 @@ In this challenge I learned to declare `display: flex` twice. I didn't know that
 
 ### Continued development
 
-I need to improve my ability to deal with units. At the beginning I sttrugled a litle because I was using percentages instead of rem's. After this change I was able to finish the project. I also didn't use any media queries because from my perspective it looks good on both mobiel and desktop version.
+I need to improve my ability to deal with units. At the beginning I sttrugled a litle because I was using percentages instead of rem's. After this change I was able to finish the project. I didn't used any media queries.
 
 
 ## Author
